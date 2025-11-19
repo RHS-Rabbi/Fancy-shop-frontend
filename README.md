@@ -34,6 +34,8 @@ Fancy Shop is a stylish and clean online shopping frontend focused on user exper
 - Font Awesome (optional)
 
 ## 📁 Folder Structure
+
+```
 fancy-shop-frontend/
 ├─ index.html
 ├─ style.css
@@ -42,6 +44,7 @@ fancy-shop-frontend/
 ├─ js/
 │  └─ main.js
 └─ README.md
+```
 
 
 ## 🚀 Installation (Local Setup)
