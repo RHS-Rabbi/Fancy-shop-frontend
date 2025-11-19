@@ -35,15 +35,25 @@ Fancy Shop is a stylish and clean online shopping frontend focused on user exper
 
 ## 📁 Folder Structure
 fancy-shop-frontend/
+
 ├─ index.html
+
 ├─ css/
+
 │ └─ styles.css
+
 ├─ js/
+
 │ ├─ main.js
+
 │ ├─ isotope.pkgd.min.js
+
 │ └─ masonry.pkgd.min.js
+
 ├─ images/
+
 └─ README.md
+
 
 ## 🚀 Installation (Local Setup)
 ```bash
